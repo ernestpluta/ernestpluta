@@ -4,6 +4,6 @@
 
 
 - 🔭 I’m currently working on vue-weather-app 
-- 🌱 I’m currently learning vue.js and node.js 
+- 🌱 I’m currently learning vue.js (pinia, nuxt), typescript and node js
 
 - 📫 How to reach me: contact@erndesigns.com 

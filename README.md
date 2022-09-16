@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on angular-dashboard-app
+- 🔭 I’m currently working on angular-dashboard-app && nuxt-cv-builder-app
 - 🌱 I’m currently learning vue.js (pinia, nuxt), typescript and angular
 
 - 📫 How to reach me: contact@erndesigns.com 

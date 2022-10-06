@@ -2,11 +2,6 @@
 
 
 
+ - Check out my instagram for new designs: [@erndesigns1](https://www.instagram.com/erndesigns1/)
 
-- 🔭 I’m currently working on nuxt-dashboard-app
-- 🌱 I’m currently learning vue.js (pinia, nuxt), typescript and angular
-
-- 📫 How to reach me: contact@erndesigns.com 
-
- - Check our my new designs on instagram: [@erndesigns1](https://www.instagram.com/erndesigns1/)
-
+-  How to reach me: contact@erndesigns.com 

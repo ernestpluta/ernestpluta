@@ -2,4 +2,6 @@
 
  - Check out my instagram for new designs: [@erndesigns1](https://www.instagram.com/erndesigns1/)
 
--  How to reach me: contact@erndesigns.com 
+-  How to reach me: contact@erndesigns.com
+
+-  Currently busy working on: visiontrust.pl (will be added soon)

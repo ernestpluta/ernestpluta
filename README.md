@@ -4,4 +4,4 @@
 
 -  How to reach me: contact@erndesigns.com
 
--  Currently busy working on: visiontrust.pl (will be added soon)
+-  My latest commercial project: visiontrust.pl
